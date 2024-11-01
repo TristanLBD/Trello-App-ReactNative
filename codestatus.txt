@@ -1,0 +1,50 @@
+Réalisez un pseudo Trello en version mobile
+Users :
+
+    Identifier : ✔
+    Connexion : ✔
+    Inscription : ✔
+    Déconnexion : ✖
+    google/facebook OU confirmation du compte par e-mail: ✖
+
+Boards :
+
+    Lister les boards : ✔
+    Ajouter un board : ✔
+    Modifier un board : ✔
+    Supprimer un board : ✔ (Message d'erreur mais supprime quand même)
+
+Columns :
+
+    Lister les columns : ✔
+    Ajouter une column : ✔
+    Modifier une column : ✔
+    Supprimer une column : ✔
+
+Tasks :
+    Lister les tasks : ✔
+    Ajouter une task : ✔
+    Modifier une task : ✔
+    Supprimer une task : ✔
+    Photos dans les task : 
+        ajouter une photo : ✔
+        modifier une photo : ✔
+        supprimer une photo : ✔
+
+
+
+
+Utilisez à minima une navigation en tab pour gestion du compte/projet ✔
+Utiliser une navigation par empilement pour voir le détail d’une tache ✔
+
+Si vous avez réalisé l’option vous pouvez utiliser une navigation par empilement pour aller de la liste des tableaux à la gestion du tableau ✔
+
+[Grille d'evaluation]
+
+
+Animation 1,5 pt
+Design 2 pt
+
+Lien vers votre repo Github, 
+Faire un readme.md dans le dépot qui explique comment lancer/installer le programme
+Préciser dans le readme qui à travaillé sur le projet (nom et prenom)
